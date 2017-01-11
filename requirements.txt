@@ -1,0 +1,8 @@
+Requirements
+
+* Python 3 installed
+* Install Tkinter 
+ sudo pip3 install tkinter
+* Install Selenium 
+ sudo pip3 install selenium
+* Install smtplib
